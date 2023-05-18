@@ -1,5 +1,5 @@
 package com.example.myapplication
-
+//Kotlin-101
 fun main () {
     val number: Int = 2
     val i: Byte = number.toByte()
@@ -19,6 +19,7 @@ fun main () {
     println("x is $x, y is $y")
 
     val c = 78
+    val aa = 75
 
     if (c > 80) {
         println("A")
